@@ -1,0 +1,18 @@
+0 verbose cli D:\node.js\node.exe D:\node.js\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v22.11.0
+3 silly config load:file:D:\node.js\node_modules\npm\npmrc
+4 silly config load:file:E:\file\Projects\C\dsa_course\.npmrc
+5 silly config load:file:C:\Users\huanxin\.npmrc
+6 silly config load:file:D:\node.js\node_global\etc\npmrc
+7 verbose title npm config get prefix
+8 verbose argv "config" "get" "prefix"
+9 verbose logfile logs-max:10 dir:E:\file\Projects\C\dsa_course\npm-cache\_logs\2026-04-05T06_33_51_467Z-
+10 verbose logfile E:\file\Projects\C\dsa_course\npm-cache\_logs\2026-04-05T06_33_51_467Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd E:\file\Projects\C\dsa_course
+13 verbose os Windows_NT 10.0.22631
+14 verbose node v22.11.0
+15 verbose npm  v10.9.0
+16 verbose exit 0
+17 info ok
