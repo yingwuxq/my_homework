@@ -266,7 +266,7 @@ long getFileSize(const char* filename) {
 
 int main() {
     const char* original_file = "input.txt";
-    const char* encoded_file = "encoded.bin";
+    const char* encoded_file = "encoded.huf";
     const char* decoded_file = "decoded.txt";
     
     int freq[256] = {0};
